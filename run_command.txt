@@ -1,2 +1,5 @@
 C:\Python27\python.exe .\jemdoc.py index.jemdoc extras.jemdoc publications.jemdoc news.jemdoc
 python2 \jemdoc.py index.jemdoc extras.jemdoc publications.jemdoc news.jemdoc
+
+
+#{}{img_left}{photos/profile.jpg}{alt text}{300}{300}

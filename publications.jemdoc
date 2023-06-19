@@ -1,6 +1,11 @@
 # jemdoc: menu{MENU}{publications.html}
 = Publications
 
-== Publications 
+== 2023 
 
-== To be updated... :') 
+- [papers/mobisys23-shanbhag.pdf Contactless Material Identification with Millimeter Wave Vibrometry] \n
+    The 21st International Conference on Mobile Systems, Applications, and Services (MobiSys '23), DOI: 10.1145/3581791.3596850\n
+    H. Shanbhag\*, S. Madani\*, A. Isanaka, D. Nair, S. Gupta, H. Hassanieh\n
+    (\* indicates equal contribution) \n
+    Code available on [https://github.com/hailanzs/contactless-mat-id Github]
+
