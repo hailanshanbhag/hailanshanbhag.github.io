@@ -2,9 +2,9 @@
 = Hailan Z. Shanbhag
 
 ~~~
-{}{img_left}{photos/profile1.jpg}{alt text}{525}{375}
+{}{img_left}{photos/profile1.jpg}{alt text}{375}{525}
 - Graduate Student in [https://www.epfl.ch/schools/ic/ IC] Department at [https://epfl.ch EPFL]
-- [cv.pdf CV]\n\n
+- [hailan_cv.pdf CV] (updated Dec 2024) \n\n
 ~~~
 
 
@@ -18,20 +18,24 @@ I received my B.S. in Computer Engineering from UIUC in May 2021 and my M.S. in 
 == Research
 During my undergraduate career, I explored research and coursework in the field of sensors, circuits, 
 power electronics, machine learning and wireless communications. 
-Currently, I work in the area of wireless sensing and networking. 
+Currently, I work in the area of wireless sensing and networking. Primarily, my recent work has been in wireless imaging. 
+
+== Teaching (EPFL)
+- COM 304: Communications Project (Spring 2024)
+- COM 405: Mobile Networks (Fall 2024)
 
 == Personal Interests 
-In my time not spent on research I enjoy dancing ballet, running, 
-knitting/crocheting, sewing, and have begun to dabble in bouldering. 
+In my time not spent on research I enjoy dancing ballet, knitting/crocheting, sewing, and {{<s>}}have begun to dabble in{{</s>}} rock climbing. 
 
 == Some News :) 
 
+- July 2024: Our paper was accepted to MobiCom 2024!
 - May 2023: Our paper was accepted to MobiSys 2023! I will be presenting in Helsinki in June. 
 - January 2023: I joined EPFL as a Ph.D. student.
 - December 2022: I graduated from UIUC with a Masters in Electrical and Computer Engineering! 
 - August 2021: I joined UIUC as a graduate student.
 
 == Contact Information
-Office: BC 118 \n 
+Office: BC 116 \n 
 Email: [hailan.shanbhag@epfl.ch hailan.shanbhag@epfl.ch] \n 
 [https://www.linkedin.com/in/hailan-shanbhag/ Linkedin], [https://github.com/hailanzs/ Github] 
