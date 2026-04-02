@@ -4,24 +4,24 @@
 ~~~
 {}{img_left}{photos/profile1.jpg}{alt text}{375}{525}
 - Graduate Student in [https://www.epfl.ch/schools/ic/ IC] Department at [https://epfl.ch EPFL]
-- [hailan_cv.pdf CV] (updated Oct 2025) \n\n
+- [hailan_cv.pdf CV] (updated March 2026) \n\n
 ~~~
 
 
 == Bio 
 Hello! I joined UIUC as a graduate student in 2021, working with Professor [https://people.epfl.ch/haitham.alhassanieh Haitham Hassanieh]
-in the [https://www.epfl.ch/labs/sens/ SENS] lab and moved to EPFL in January of 2023 to continue my PhD.
+in the [https://sens.epfl.ch SENS] lab and moved to EPFL in January of 2023 to continue my PhD.
 I grew up in the Champaign-Urbana cornfields in central Illinois, but have lived in Taipei and Palo Alto for brief periods of time in the past. 
 Currently, I am located in Lausanne, Switzerland.
 I received my B.S. in Computer Engineering from UIUC in May 2021 and my M.S. in ECE from UIUC in December 2022.
 
 == Research
-During my undergraduate career, I explored research and coursework in the field of sensors, circuits, 
+During my undergraduate career, I explored research and coursework in the field of image sensors, circuits, 
 power electronics, machine learning and wireless communications. 
-Currently, I work in the area of wireless sensing and networking. Primarily, my recent work has been in wireless imaging. 
+Currently, I work in the area of wireless sensing and networking. Primarily, my recent work has been in wireless imaging and 3D reconstruction. 
 
 == Teaching (EPFL)
-- COM 304: Communications Project (Fall 2023, Spring 2024, Spring 2025)
+- COM 304: Communications Project (Fall 2023, Spring 2024, Spring 2025, Spring 2026)
 - COM 405: Mobile Networks (Fall 2024, Fall 2025)
 
 == Personal Interests 
@@ -30,6 +30,7 @@ I speak English, Chinese and have been learning French.
 
 == Some News :) 
 
+- March 2026: Our paper was accepted to CVPR 2026! 
 - September 2025: Our paper was accepted to NeurIPS 2025! 
 - July 2024: Our paper was accepted to MobiCom 2024!
 - May 2023: Our paper was accepted to MobiSys 2023! I will be presenting in Helsinki in June. 

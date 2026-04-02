@@ -1,9 +1,15 @@
 # jemdoc: menu{MENU}{publications.html}
 = Publications
 
+- [papers/cvpr26-shanbhag.pdf Seeing through boxes: Non-Line-of-Sight 3D Reconstruction from Radar Signals] \n
+    The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR '26) \n 
+   J. Lu\*, H. Shanbhag\*, H. Hassanieh\n
+   (\* indicates equal contribution) \n
+   Code coming soon...
+
 - [papers/neurips25-shanbhag.pdf GeRaF: Neural Geometry Reconstruction from Radio Frequency Signals] \n
     The 9th Conference on Neural Information Processing Systems (NeurIPS '25), [https://neurips.cc/virtual/2025/loc/san-diego/poster/115084 OpenReview Page]\n 
-   J. Lu\*, H. Shanbhag\*, S. Gupta, H. Hassanieh\n
+   J. Lu\*, H. Shanbhag\*, H. Hassanieh\n
    (\* indicates equal contribution) \n
    Code coming soon...
 
